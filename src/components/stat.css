@@ -1,0 +1,36 @@
+.all1{
+    position: fixed;
+}
+
+.box1{
+    height:300px;
+    width:600px;
+    background-color: rgb(168, 190, 223);
+    margin-left:120px ;
+    margin-top: 90px;
+    display: transparent;
+    border-radius: 20px;
+  }
+
+
+  .box12{
+   
+    width: 400px;
+    height: 200px;
+    background-image: url(../images/kk.png);
+    background-size: cover;
+    margin-left:900px ;
+    margin-top: -360px;
+    
+  }
+
+  .rectangle33{
+    
+    width:1300px;
+    background-color:rgb(212, 225, 236);
+    margin-left:120px ;
+    margin-top: 40px;
+    display: transparent;
+    
+    
+  }

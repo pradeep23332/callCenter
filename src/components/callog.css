@@ -1,0 +1,36 @@
+.all2{
+    position: fixed;
+
+    
+}
+
+.box112{
+    height:400px;
+    width:800px;
+    background-color: rgb(168, 190, 223);
+    margin-left:100px ;
+    margin-top: 60px;
+    display: transparent;
+    border-radius: 20px;
+  }
+
+  .loop{
+    height:300px;
+    width:600px;
+    margin-left: 900px;
+    margin-top: -300px;
+    background-image: url(../images/call.png);
+    background-size: cover;
+    
+  }
+
+  .rectangle43{
+    
+    width:1300px;
+    background-color:rgb(212, 225, 236);
+    margin-left:100px ;
+    margin-top: 120px;
+    display: transparent;
+    
+    
+  }

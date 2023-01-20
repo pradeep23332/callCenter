@@ -1,0 +1,94 @@
+.all4{
+    position: fixed;
+
+    
+}
+
+.box125{
+    height:475px;
+    width:650px;
+    background-color: rgb(214, 223, 236);
+    margin-left:100px ;
+    margin-top: 60px;
+    display: transparent;
+    border-radius: 20px;
+  }
+  .trangle48{
+      height:80px;
+      width:400px;
+      background-color: rgb(130, 80, 177);
+      border-radius: 20px;
+      
+     
+  }
+
+  .trangle49{
+    height:80px;
+    width:400px;
+    background-color: rgb(90, 204, 118);
+    border-radius: 20px;
+}
+
+.trangle50{
+    height:80px;
+    width:400px;
+    background-color: rgb(126, 170, 228);
+    border-radius: 20px;
+}
+
+.trangle51{
+    height:80px;
+    width:400px;
+    background-color: rgb(231, 207, 125);
+    border-radius: 20px;
+}
+
+.s1{
+    height: 80px;
+    width:80px;
+    background-image: url(../images/s1.png);
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: 320px;
+    
+}
+
+.s2{
+    height: 80px;
+    width:80px;
+    background-image: url(../images/s2.png);
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: 320px;
+    
+}
+
+.s3{
+    height: 80px;
+    width:80px;
+    background-image: url(../images/s3.png);
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: 320px;
+    
+}
+
+.s4{
+    height: 80px;
+    width:80px;
+    background-image: url(../images/s4.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin-left: 320px;
+    
+}
+
+.loop3{
+    height:300px;
+    width:300px;
+    margin-left: 1000px;
+    margin-top: -400px;
+    background-image: url(../images/main.png);
+    background-size: cover;
+    
+  }

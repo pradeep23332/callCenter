@@ -1,0 +1,42 @@
+.rectangle2{
+    height:840px;
+    width:300px;
+    background-color: rgb(151, 168, 190);
+    position: fixed;
+    
+  
+  }
+
+  .btn-warning {
+      margin-left: 60px;
+      border-radius: 50px;
+      width: 180px;
+      height: 100px;
+      margin-top: 30px;
+      color: aliceblue;
+     
+  }
+
+
+  .btn-warning:hover{
+      color: aliceblue;
+  }
+  
+  .rectangle3{
+    height:300px;
+    width:800px;
+    background-color: rgb(219, 230, 233);
+    margin-left:400px ;
+    margin-top: 100px;
+    display: transparent;
+  }
+
+
+  .rectangle4{
+    height:300px;
+    width:400px;
+    background-color: rgb(172, 175, 196);
+    margin-left:1000px ;
+    margin-top: -300px;
+    display: transparent;
+  }

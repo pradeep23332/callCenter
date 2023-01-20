@@ -1,0 +1,12 @@
+.rectangle109{
+    height:300px;
+    width:1200px;
+    background-color: rgb(233, 234, 243);
+    margin-left:200px ;
+    margin-top: 50px;
+    display: transparent;
+  }
+
+  .table-striped{
+    display:relative
+  }

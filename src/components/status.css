@@ -1,0 +1,35 @@
+.all3{
+    position: fixed;
+
+    
+}
+.box115{
+    height:425px;
+    width:650px;
+    background-color: rgb(168, 190, 223);
+    margin-left:100px ;
+    margin-top: 60px;
+    display: transparent;
+    border-radius: 20px;
+  }
+
+  .loop2{
+    height:300px;
+    width:600px;
+    margin-left: 900px;
+    margin-top: -400px;
+    background-image: url(../images/asl.jpg);
+    background-size: cover;
+    
+  }
+
+  .rectangle37{
+    
+    width:1300px;
+    background-color:rgb(212, 225, 236);
+    margin-left:100px ;
+    margin-top: 180px;
+    display: transparent;
+    
+    
+  }

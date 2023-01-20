@@ -1,0 +1,17 @@
+.rectangle10{
+    height:840px;
+    width:300px;
+    background-color: rgb(121, 135, 156);
+    position: fixed;
+    
+  
+  }
+
+  .rectangle8{
+    height:300px;
+    width:800px;
+    background-color: rgb(168, 190, 223);
+    margin-left:540px ;
+    margin-top: -10px;
+    display: transparent;
+  }
